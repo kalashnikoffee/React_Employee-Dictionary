@@ -1,4 +1,4 @@
-# React_Employee-Dictionary
+# React_Employee-Directory
 Unit 19 React Homework: Employee Directory
 
 Overview
